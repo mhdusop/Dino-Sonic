@@ -1,0 +1,10 @@
+https://i.imgur.com/7BuRkS9.png
+
+How to Use this link?
+
+1. pastikan internet anda mati terlebih dahulu
+2. klik kanan pada mouse dan klik inspect element
+3. cari div yg nama id nya offline-resources
+4. lalu klik tag img yg id nya offline-resources-1 lalu double klik pada link
+5. hapus link bawaan dan paste kan link diatas lalu pencet enter
+6. Selamat mencoba :D
